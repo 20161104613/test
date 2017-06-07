@@ -11,5 +11,6 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
+    printf("高考加油!\n");
     return 0;
 }
